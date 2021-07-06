@@ -29,7 +29,13 @@ for filename in os.listdir(directory):
 #Create variable of full SIF file dataset
             SIF_dataset = nc.Dataset(SIF_file)
 
-# 
+
+
+############################
+#  testing push and pull   #
+############################
+
+
 
 # Create variables of everything we want in the csv.
 # In this case it's Daily_SIF_757nm, Latitude, and Longitude
