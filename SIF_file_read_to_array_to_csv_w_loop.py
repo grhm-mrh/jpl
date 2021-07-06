@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-# Import numpy -- needed for array creation
+## Import numpy -- needed for array creation
 # Import netCDF4 -- needed to read .nc4 file
 # troubleshooting note: May want to import HDF5 library to read .nc4 file
 import numpy as np
