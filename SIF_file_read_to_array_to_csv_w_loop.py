@@ -35,6 +35,10 @@ for filename in os.listdir(directory):
 #  testing push and pull   #
 ############################
 
+############################
+#  pulling back to local  #
+############################
+
 
 
 # Create variables of everything we want in the csv.
